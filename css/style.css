@@ -103,7 +103,7 @@ header{
 	border: none;
 	cursor: pointer;
 	transition: .3s;
-	border-radius: 1px;
+	border-radius: 3px;
 }
 .b_content button:hover{
 	color: white;
