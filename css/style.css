@@ -103,6 +103,7 @@ header{
 	border: none;
 	cursor: pointer;
 	transition: .3s;
+	border-radius: 1px;
 }
 .b_content button:hover{
 	color: white;
@@ -121,6 +122,7 @@ header{
 	/*border: 1px solid red;*/
 	float: left;
 	padding: 50px 2.5%;
+	border-right: 1px solid #192330;
 }
 .single:first-child{
 	padding-left: 0;
